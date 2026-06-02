@@ -1,3 +1,9 @@
+#install
+pip install PyQt6 PyQt6-WebEngine
+pip install speechrecognition pyaudio
+pip install pygame
+
+#Code
 import sys
 import os
 import json
